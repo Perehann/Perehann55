@@ -1,0 +1,26 @@
+{
+  "name": "Marie Pittman",
+  "age": 30,
+  "address": {
+    "street": "Awilel Loop",
+    "city": "Zulmomi",
+    "state": "IN",
+    "zip": "86110"
+  },
+  "contact": {
+    "phone": "(313) 522-6081",
+    "servicePhone": "800282166"
+  },
+  "birthday": "2000-09-23T17:44:25.441Z",
+  "ip": "110.62.178.103",
+  "foo": "bar",
+  "profile": {
+    "about": "Maumu ak ij pi huughek mejiptod cen hativmat varitmeh ru jikadu puzami rijova zojuali. Ece espur eg vave ik kukwi luv zewmudip watlipni nutwogaw no culoli ruabneh jurped huw iz tagco. Feniwo aw tiom po co ivfupsab guicce gi vifore wuzof ninbohves ba on pebebdi. Iv owa ci fuzomin hefdi ze webpibig iftad manro zotog cehmazhe ni belpa olcufife. Gu do egfoiwu vidos jeni weljibag wi kotheblu ranbav jozohhi tolefuro iguzedfak bi pelzitum.",
+    "bio": "Jerfakza aca pag fesi sovueve fuj eco gupbo uki tafo neuvjuz itih. Jubniz givojogi zil zu pi bet helov lafizob sulgazel ijeka meffe jorom birviwa zuhaca legepehu. Mooz zadonakib pulzum tuzideze jeavpi tercod huf gap widas gurwe pe iva va."
+  },
+  "apiKey": "27f64814b08c7847e9708881d9fa8cc8f41034ee543c834e27a34f6b1d6f6ae9",
+  "currency": {
+    "code": "ETB",
+    "name": "Ethiopia Birr"
+  }
+}
