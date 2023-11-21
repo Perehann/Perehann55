@@ -1,0 +1,26 @@
+{
+  "name": "Ophelia Singleton",
+  "age": 30,
+  "address": {
+    "street": "Bunur Path",
+    "city": "Fesudmam",
+    "state": "HI",
+    "zip": "01331"
+  },
+  "contact": {
+    "phone": "(848) 679-7870",
+    "servicePhone": "800182964"
+  },
+  "birthday": "1967-07-16T22:36:33.365Z",
+  "ip": "186.190.50.6",
+  "foo": "bar",
+  "profile": {
+    "about": "Tugjuvu muoc fowon om kinucro zicuep do goaja as sadel halosu miwhojse bab du do amaha ur rusna. Jezvujem siib ed po aho dadnubtah gamije fuowutu olunole utowacsap rozdehac uh. Gogu lu vocepu hu vo onoj tikmoap gi olikaw jaglak sovepivu zazoses bewmos sojopup totaf buwke vanah matopip. Az el of umo id gi ni lazuvwag bok ga cana ew muh er nu liploza pu tas. He gut ucaahiobi nobihac siviuta zez zerof domiz viwnor fumvowif nir mic.",
+    "bio": "Icrimsun sah cusa pov laolu huwfino lehja if cek tasatop ucobo uhihe terbojsa kewsip usa urrobih. Bopomfof domeel ori folov boh la gopoor vas cojvo ulcehe edi wa jod dok jagnov dofvibfa fabbam dubejra. In uhi degu ne ku lilte tazil al gu vujriru femi nenutej. Unepot olaceil vi teabga arbu oh inafom tendoz wev baru ele liz jon."
+  },
+  "apiKey": "f123e4373d12091c438ded747ab44d522525bfb959b0940296a4d0a9dfb0daff",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
