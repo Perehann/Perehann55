@@ -1,0 +1,26 @@
+{
+  "name": "Sam Carpenter",
+  "age": 39,
+  "address": {
+    "street": "Buano Avenue",
+    "city": "Vetaun",
+    "state": "GA",
+    "zip": "87982"
+  },
+  "contact": {
+    "phone": "(307) 519-3181",
+    "servicePhone": "800842214"
+  },
+  "birthday": "1993-10-05T17:29:29.530Z",
+  "ip": "159.14.64.16",
+  "foo": "bar",
+  "profile": {
+    "about": "La owdubot reg niphiti zoptes buzpauhe nozo uj ma of jisbi zohek zetivuer luot. Ceh talzusij pizeb etahegu guopu ibepewo nobnifdoj bi gu tehul ulujanis fib rorjup tipe. Luc figzaz pu hugkav uleeve mubmein turidu deog kejace ged dofu bogvura iweheh. Kolboghap da ihe lael lewni er rekaji tanjat hiowaho uwaod si tiivlu.",
+    "bio": "Tupu ticizac jozmefuwo eri nuuz ade ko moz de re deoleser velred zokivi odejug. Bogidios ti wopi vovoh gag wevuk oso fuli tidorme ju puigo umu dofwomfof po cape rok. Jo sazdop cekaw dato osbot duzejiru turozgul bewrom eh javbuep fe lijjoila jasabsiw uvrovcer wodnar mimwesag nu."
+  },
+  "apiKey": "21502587f0208ba13770d42e4b4b4784c1469a8e7567a34676a2ca7b545c2718",
+  "currency": {
+    "code": "MKD",
+    "name": "Macedonia Denar"
+  }
+}
