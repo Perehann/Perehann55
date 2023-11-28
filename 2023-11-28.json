@@ -1,0 +1,26 @@
+{
+  "name": "Jane Curtis",
+  "age": 50,
+  "address": {
+    "street": "Ozcu Glen",
+    "city": "Newobuzo",
+    "state": "OK",
+    "zip": "41187"
+  },
+  "contact": {
+    "phone": "(223) 680-3199",
+    "servicePhone": "800324345"
+  },
+  "birthday": "1963-08-17T17:09:03.465Z",
+  "ip": "4.95.117.49",
+  "foo": "bar",
+  "profile": {
+    "about": "Kiofo deros vihnahavi pigoti ipo oguleclip gu ucafoku ve heidu ew gan poskun. Haj ocjojo okicub zocso an opowun nupsij ipoik vefwebdon ne zej hidtude ji nuw vu rulajvaz. Tagahe ci rodgejopo ej di vodecub ve nepojoho mecpipfo doskuak wuceni iripighu fafulbe lepo bid vo pazafaz lar.",
+    "bio": "Gik lo iwu epu woavouze orkopu hello ovozifuw sunisuk nirtojrik wivik lotkogke ep ivrapil ge. Zuzarhip ja ucpetcup imuilo fegiwet puzsu nu jaaw hid zutza sufuh ce vej. Iroruow noawmi utsa naw tosenkuw gopit at bigizit ib ahega hej zopti dijmipik loeg rin. Ribkuzoj bimpuka topuzag gekletko raffemvok bovgem mob do sif dalcak hewum hut ukzov jotera cod. Ra oj peav uto ri ranigtu nofubagoh midawa pulum ijpej meovana ru vorewa cobsoz hoz kuzobak puvgazo. Wiw iswommez kisajew mutotfi be tuci gudotodi ab kero ka behiz ajevape pen wak jucuda wiftof ilotto."
+  },
+  "apiKey": "4844e55f891b590e341746805219fca59f06dd77ca045cd259469c5c83b1d019",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
