@@ -1,0 +1,26 @@
+{
+  "name": "Jim Robbins",
+  "age": 21,
+  "address": {
+    "street": "Epapo Trail",
+    "city": "Voejle",
+    "state": "NC",
+    "zip": "12560"
+  },
+  "contact": {
+    "phone": "(714) 719-2335",
+    "servicePhone": "800898982"
+  },
+  "birthday": "2002-03-27T11:46:49.801Z",
+  "ip": "165.124.73.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Momewa etaraz on jofum buwu ha efozenci pa mevtubi fi neh et vi posjesi um diwapvug. Riasoze wated av vo luke mew uviwe eliezves utzil ketitel noco nulcaguf. Op uva ufpunino je ezwa ojobizwa jusem sodadjo getum huvguol cepel vej voicuez.",
+    "bio": "Dizip ce bes kafafu zabfonfaz su nibija jus jat medu gipag nofhacipi etuciv bajif sohmoz ku. Saosu alajoku fatne fo ga dathuwufe vec natu ugafek fuicaze uraza zarrafem com. Nofowvu newehe nebu vopvol weh ziokolab goradewi zik pet uk isu wetle leksi jozonfo cec pifun eflu. Otkaj zopogtat loso gutufja tur tahsit mic zil fena jow vizopodo zipumzor jebakan wuz co ecikon lagiz volbo. Gufgu zaotvor nevake rezejnup enjoiw vo rites ikbivi lezan odo re wa ronetiv hupan. Urjig zolkicu weslocu wib ezub hufojdop dowi uru mavkurol ob ormun givutido doc dewecahi gihear mulos vec. Jinec bag bavor uwhub vo tanpickes kipo hovimvus zoj ufuboul zomosi nu rakekze lavaw jacno ci uvuliof."
+  },
+  "apiKey": "840c1557206cce060fdf2545681c7a0b41728185f43c41d8354b83921112a278",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
