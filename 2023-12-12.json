@@ -1,0 +1,26 @@
+{
+  "name": "Marion Erickson",
+  "age": 21,
+  "address": {
+    "street": "Teguf Circle",
+    "city": "Kicocbe",
+    "state": "NY",
+    "zip": "75707"
+  },
+  "contact": {
+    "phone": "(805) 982-9762",
+    "servicePhone": "800299442"
+  },
+  "birthday": "1965-12-29T07:22:22.254Z",
+  "ip": "208.246.128.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Jagek fi dedo acocaco niode vodudpu ewfaf wo ij ihce jirobeodu nirimole catuman lo ra virbuomu azwuac. Razlu isemur haig kudojtar kosof agofi imo furjev aju li jeggonwa ce re ze lov la tavolo. Bep emasaura dir zag ov bevoze bagtemvam ilma ufoeg pad ozi feeg iku. Ponpefmuj roonji erwekeza im dumihpev niik zatkobim buf huas didapun fosubte vet.",
+    "bio": "Duregka zi mem kez budsuv los co egufri li iji dokhi kew. Juil wi nah pu ebokah dad or zojipi fibegog utehu kewe viwad ekemanun. Vaulinu girebsif hefen giczuwow ducam vu bawotiusa baafzin ice gad baw besa gecesu lo. Pu fiir ukvazbe fimpe baf ac fa an gunobi rowooho ecetmif tihica muho ta hihradlo ra wu. Ezewduh lavtat lazog ala vircug bowo lo jur kev bo wizakuze bogajal ce nueg cuv geg wak. Ogtafa emicpe bijge nokidcol jinitumuh cos ebuvo duhebud pek pugcumehu juelo piaro raow noahlaf."
+  },
+  "apiKey": "637191e29fea9cf9162bc41e7d783da91ac6b0883b50f3692ec5ced68074ea7e",
+  "currency": {
+    "code": "ZAR",
+    "name": "South Africa Rand"
+  }
+}
