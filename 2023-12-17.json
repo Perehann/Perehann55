@@ -1,0 +1,26 @@
+{
+  "name": "Madge Carlson",
+  "age": 42,
+  "address": {
+    "street": "Obmig Point",
+    "city": "Lolfushu",
+    "state": "VT",
+    "zip": "83799"
+  },
+  "contact": {
+    "phone": "(820) 940-1141",
+    "servicePhone": "800296417"
+  },
+  "birthday": "1990-12-04T08:55:58.644Z",
+  "ip": "189.133.118.36",
+  "foo": "bar",
+  "profile": {
+    "about": "Kuvijor ra fodasi ufupor gilak van alupocver nohe bevup fabzejali vaksah fu joumo hobamsi tetusi verokuh mejwi. Ilanula zajikijo he jirtiv midigzur ti naalaig cuaf moale tawodib baci ofjel. Tunadet osoerous carukvu ujleek iseuk sugasa kuw dar niel fipa wazwom ifrebo.",
+    "bio": "Bevawur epwe kilawu dajej finmihmi dabas nakazi towewkit gubol so lanisi onwudsi wugasan jisi ommu. Navew bivweja iwvoduv donadhut cedja dedbedise ov tonejpit awbud bow gimep kutgu licrikos hoz. Mis lueno maplah wa juk uzum kakli coh no jivinvo camuna duopa. On niw uguh hassepsi vuppebu napi bideli toobo ro gakwubus tosaf sezutu vavoj rarbidlon oleerecop."
+  },
+  "apiKey": "81b8becba68d5ad8c908e02e05df67239181c2ed03b2e8d850be18e25adb9af6",
+  "currency": {
+    "code": "CNY",
+    "name": "China Yuan Renminbi"
+  }
+}
