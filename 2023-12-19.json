@@ -1,0 +1,26 @@
+{
+  "name": "Lucinda Robinson",
+  "age": 45,
+  "address": {
+    "street": "Ubapa Pike",
+    "city": "Mihiwruk",
+    "state": "CA",
+    "zip": "55013"
+  },
+  "contact": {
+    "phone": "(261) 435-4694",
+    "servicePhone": "800454935"
+  },
+  "birthday": "1982-05-06T12:01:26.025Z",
+  "ip": "19.30.253.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Cahcathek jona punul jipa wu olu rolif kuriw wur adiavla zusma ra wozwuhik hakirahoc. Ejigazci jikjogo tofpek ado fafgoac hi eza ivagajiva mufomric fawtiegu vace widtevca kigkol ogu. Ni cec mer nove dozwiwti culibe fujoc owimosoc wi cawgok ag wagocare.",
+    "bio": "Jawfuuno pa dofazfo igtivem at tipuj wu li ucpuk gowwez puhbaij faip. Nocnew pog us ip la gakoguhuc kov cup navisabu fehu zujorni pica. Nikinucal ad okasakbol mef panok dal guvaddo tazbod ho fadhor uhidzur luf nupriz nohsinon. Vepuv bapku muzdovu pivon zegu piralwij vuusa ewev bavuhso hiwetgad aboahe ebuwowoji."
+  },
+  "apiKey": "3769f1af23d98925c20038d521e90f6ece1fdf91086a348860cd66cf9661b0de",
+  "currency": {
+    "code": "INR",
+    "name": "India Rupee"
+  }
+}
