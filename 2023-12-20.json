@@ -1,0 +1,26 @@
+{
+  "name": "Evan Barton",
+  "age": 40,
+  "address": {
+    "street": "Epasi Pike",
+    "city": "Lapedeapa",
+    "state": "MA",
+    "zip": "17232"
+  },
+  "contact": {
+    "phone": "(725) 821-8934",
+    "servicePhone": "800469937"
+  },
+  "birthday": "1987-03-03T10:32:42.774Z",
+  "ip": "89.3.16.125",
+  "foo": "bar",
+  "profile": {
+    "about": "Ge pu sev pe ogloc bor looga ojabas omiteig va azhu co vak ur ucdul codez bag turcokhoc. Ka su voczigo nalasa givdim ovoudone coisga ni lalisir gelda falugfer rati ulozac. Baval voztulen juhuuhu zez pa se bu beddem bujamuf izu vetejcev lozoniz ic dadibo rizeri.",
+    "bio": "Ku kocaj wu dundoj guflu runul jalri tegtimoz manborpe hijso ahudos rawo uk mahewuz dahi cek rik. Gu nawmo mu sico en sok lowricjaf fanuhgo wahunse do cuoha logbuv. Nuwfi lipifutoj ti mijkabmo woterac fuv samek tainwen nuriz ved jafrejkit eppifane eshowvak bi. Asizo samive to weijitu gat we cofgatab piacata ezebi potujra pulzastel izkid gafowcod. Bahemvu bevames tagtekub rolavif evowijos wujbek bogup fe pot gov bin zojivpu juzolrer."
+  },
+  "apiKey": "bfb90434efe15097373f93be1712fded46426336264991eff82ccea1af53d8c5",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
