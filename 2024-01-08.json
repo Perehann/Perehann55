@@ -1,0 +1,26 @@
+{
+  "name": "Jon Reyes",
+  "age": 40,
+  "address": {
+    "street": "Tudonu Grove",
+    "city": "Ituitri",
+    "state": "NH",
+    "zip": "83709"
+  },
+  "contact": {
+    "phone": "(805) 645-7060",
+    "servicePhone": "800761671"
+  },
+  "birthday": "1988-02-09T01:12:23.745Z",
+  "ip": "141.81.227.59",
+  "foo": "bar",
+  "profile": {
+    "about": "Jifaba ma oleligev sa rihvisah je ivehek bejaaku ja zabul fir idide. Sonnuadu ce louji poparco te feivo cagilgi kiuh ogu no lod visjow. Risdakap futfosum af nahulhu zizonak kipal fivo kotipfu bagje vacan teiw cow otvuz. Oga asosac zanu jec buerdi zazeni iszig puwnigsah ejwehbak fatobbuc sabus zig de zuilodat gefwaler.",
+    "bio": "Tonumukom uzzak tattodok nigoem neju fu novac velza hadajeg tah karko ozu judi ija towle ni. Luhsorkef li cemri pus si ni bos kahukfi het gavo hopab huosecal af umoaf. Genbogu bopim ilazoz toweflok sajhud aru meunuve el webbol ku huwon ekohan jejam ah pa vivi. Gusozi uhudfo ega ripok mapi okurov wepide gukihep lakmu geb fuzove nabi vitu aga vonijmu."
+  },
+  "apiKey": "817cca5737c607e88a2a9964bd6ce91fe69320cef49877d49a1a4554c7768559",
+  "currency": {
+    "code": "MUR",
+    "name": "Mauritius Rupee"
+  }
+}
