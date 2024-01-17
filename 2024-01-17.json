@@ -1,0 +1,26 @@
+{
+  "name": "Randy Nguyen",
+  "age": 29,
+  "address": {
+    "street": "Doppon River",
+    "city": "Denefik",
+    "state": "OK",
+    "zip": "69385"
+  },
+  "contact": {
+    "phone": "(741) 220-8260",
+    "servicePhone": "800229499"
+  },
+  "birthday": "1989-08-22T01:06:07.857Z",
+  "ip": "123.192.74.181",
+  "foo": "bar",
+  "profile": {
+    "about": "Faot bilja wifgifo uboseh hobuse wotidul dok macjonkiz ow cazjohe no toomdi. Rirzevnoz zezav defatdo lo onavakku saanu wehi hod za rehbi ezave nipbaso emutubem jokag nozbaske tepdeod. Wocucviv vijonar ah jese mepe tuzha oba wi dulenha jo botif ike bizowliz tid cojud jap. Lidfivnu tatbu im mukcefez le zebosuj aj liive lerecro cozvacen hes erbi ujaoma fikabsuk.",
+    "bio": "Limilud wasgotoc dibazgi kelaeni zin zugojup tudji ti zasrumtet metagoce vap semuwov vu jifodas ero me wi dot. Mibcizges nobawfo bu fitfob gutmo tez hogmopav gu secmacdim fuvwuzaki pen gomdefpa opgi me si sinhu surjakuv guehamet. Binibo lep ejhi maga dejadu giwik lesek tucad neka cigzo wuoveido uhoutmo."
+  },
+  "apiKey": "2bc28826dc0bc78e935be82487c642a7e3cd4af140816869514649c3d7850733",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
