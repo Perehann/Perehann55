@@ -1,0 +1,26 @@
+{
+  "name": "Teresa Martin",
+  "age": 19,
+  "address": {
+    "street": "Fakpo Manor",
+    "city": "Hezuzu",
+    "state": "DC",
+    "zip": "30022"
+  },
+  "contact": {
+    "phone": "(963) 793-9982",
+    "servicePhone": "800825475"
+  },
+  "birthday": "1988-04-19T02:50:06.324Z",
+  "ip": "156.130.165.182",
+  "foo": "bar",
+  "profile": {
+    "about": "Sagigfi zoh ciwdi uhumfot kareruwo oka bez kumer hazecuv zuzeano ca pigciun ew savriwlig. Nit hehosgah dokhovo nohwachon ru roknoca tirop but hilvah asnimbi zuinuez paroztom umajedo. Toj mougiog jun tarosewu zu zolradah fesade uw inmuvzor ramutih riturazi idurif cozkihti beirte man bugpu oj vuwfeub. Edewiobi wufotmu pawka pemfeob zi lupli ko tujjo cubogo bi cepazi bu ceteica sewme.",
+    "bio": "Ge elutebuz ophot pu ro ca em lecihop lakvosu ko rawfepi fema gibjodcif er ca wogusi eva raota. Jag zucsoz ruwidmi su bijek kosatjo jombic pesig humen godgariru ek lalaknaz re fem pe. Avsoco utegofon pigah kihadzap pibugan adupawag ro wehi boleplo diwasoavu cabupaz ca rupo vijut upe. Loagata con sif efi lotzem cug pom wukejtiz gu ne neznuw ofgova ni. Juhib ir toibij hecbiawi jopdege awhitfe nefe werus lavifuaf namejab gueh iba. Hajeh dul hajzuk vu utzujvi fi ti akenirvul se fewivmu nofo gogo ut ficebek niog eg te."
+  },
+  "apiKey": "d02b77458cd801b58f33940fa4889d3b9ecc299e0f464041eab1c7b046a7e988",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
