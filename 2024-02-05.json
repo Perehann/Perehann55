@@ -1,0 +1,26 @@
+{
+  "name": "Jose Cobb",
+  "age": 44,
+  "address": {
+    "street": "Kinnul Trail",
+    "city": "Wazujrin",
+    "state": "ID",
+    "zip": "93127"
+  },
+  "contact": {
+    "phone": "(881) 922-3350",
+    "servicePhone": "800988421"
+  },
+  "birthday": "1966-05-22T09:31:42.407Z",
+  "ip": "205.92.183.112",
+  "foo": "bar",
+  "profile": {
+    "about": "Kusvimho vaz det ojinu ni ikaarsip uliehpul huva ne hesaw hu ut zi nad. Fatbi jiko cic miwape cis weisifi girof wazephus nusgazewu tuzkuwir jeeku zokdahufa pogbup vecifiwal kepasti rerkafmim tovnadujo va. Jutowruc vat vopcoud azda eh kibo sawma tezusit ba owi puho siekijig awojuh wed roonusi. Tavusza be hi coga ci uckole gur wafbi de kazit jamjap ko zokka voifgo omofa cebope.",
+    "bio": "Rijeov mewhiwgo jermu pulbug ziv con tuwak aholuzped jip evguj rape mikemoh cudehuhu revwopmu ibahog mulrahug ida. Saosvis sa cubbic zedda zupublo mawli bev duggiwrug wovijfeb vamonu hah ejnoc li. Vu pipfab ela ub eko res pofzaiwu fuhen met zohojbu romot poh kig cenes jirkicdim. Pofkic tawfe zafked fidemzuc se naso nab fe jejku zocoh punaun gikbip witow paihu hav te. Fat gamcirme avwohub nud bilzis ro boordi nulwutmem rug low tu pooj likcezneb no oje ko lamsow. Nuc sijitsuj teib niuruica cuz dijel gu li motgago sislo leriwipub def."
+  },
+  "apiKey": "5f32d57af4063e1fd3cde21789ef2fbd65585147625774b2af71dab6b8dd1a82",
+  "currency": {
+    "code": "NIO",
+    "name": "Nicaragua Cordoba"
+  }
+}
