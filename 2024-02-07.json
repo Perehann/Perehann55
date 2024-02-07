@@ -1,0 +1,26 @@
+{
+  "name": "Paul Wilson",
+  "age": 25,
+  "address": {
+    "street": "Dezigo Court",
+    "city": "Esojigom",
+    "state": "AZ",
+    "zip": "73781"
+  },
+  "contact": {
+    "phone": "(685) 943-8743",
+    "servicePhone": "800838981"
+  },
+  "birthday": "2003-07-24T03:14:28.605Z",
+  "ip": "149.34.1.32",
+  "foo": "bar",
+  "profile": {
+    "about": "Ectedso pihaeb guphi lawanez va soskibvim sate guvapzif casso acvu ulgu vomim vinu dusled zimdiw ele durgefe feszomo. Lugaini ko gafecna dotritje kioho sanpuaze razgaz kowivduf murvu wubad hegotja pu hudulwod he apozak joftanu. Ge zi rilbeh ezemova capup ban toliet tecewewe ral aj abmiv ogulazsif paz lasrobnud wozag. Ocouwa kogjebud efeg mis al vokne nasdi huonapib fifudog lavluru gu jijazave iciutu me ucfa hamaw.",
+    "bio": "So mile kec za beg hubenom sezbuvluv jobrem tacu licalo ponrifze lek bow za erculiv nehoh ik. Lenewuwe hirnozis jasafgaf bi ud zaf vibike pazve ha sidi adgiw bez lufubdow kedro la ane iso. Vu colpof oseceshac duvegow babbolve dizakuhaw icuhefnag ano iga tuj daf fuha be."
+  },
+  "apiKey": "cc3f67805a1fe6df48f63c8d60196f60ee27c4ce9e925bba6802b2ad169e9c84",
+  "currency": {
+    "code": "MYR",
+    "name": "Malaysia Ringgit"
+  }
+}
