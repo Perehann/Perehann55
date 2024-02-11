@@ -1,0 +1,26 @@
+{
+  "name": "Owen Waters",
+  "age": 22,
+  "address": {
+    "street": "Boti Way",
+    "city": "Ajiwojsem",
+    "state": "MA",
+    "zip": "61283"
+  },
+  "contact": {
+    "phone": "(817) 566-1744",
+    "servicePhone": "800612677"
+  },
+  "birthday": "1966-06-01T03:59:44.013Z",
+  "ip": "2.128.180.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Coeci tub dorrejsor kijried iru mutawi cahelafi rok pullu uzocotur zestuguv oju pi ejeru tap bor. Oju ovbes fircon orejum uhlazlop kajufdat jo bo atona jehkel zuk pum zilmacza ok wi ezobuki. Ibenket rutes vo jupa koc ha hen vozjav rowifrib mufni ucider me id rod me wocgo zuj lihpuri.",
+    "bio": "Wopkeevo narde aletap levmokwek laimi hesev nin heasuca kazil lig usne feuduaze fod me ha atagohok. Peuja me lijaumi hi bi zes nuv mosakab elvuonu wakifav ave cazaso. Vu gelon tanig zoehojo zavabdi dok bidu an zejde vusoudi fe koveka cim ofhiil."
+  },
+  "apiKey": "bbf80d18e92d2e0249bfd939b9f8b59d685efacfa07bf48773e20c148a7fc192",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
