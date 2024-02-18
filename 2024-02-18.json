@@ -1,0 +1,26 @@
+{
+  "name": "Cora Howell",
+  "age": 36,
+  "address": {
+    "street": "Jeveg Drive",
+    "city": "Dofrabo",
+    "state": "MD",
+    "zip": "73936"
+  },
+  "contact": {
+    "phone": "(468) 360-4308",
+    "servicePhone": "800224627"
+  },
+  "birthday": "1985-05-02T16:34:58.775Z",
+  "ip": "202.239.78.1",
+  "foo": "bar",
+  "profile": {
+    "about": "Seapu abeek tijun obi rakohula fogu fi eku muze uricac po noana esna fuwir opobozis. Ecja opujig zar fusivci wotec hujoz kuhsa gehaz wufjijuw hihuve kawad hohuz cilulweg umazure. Vo raiwieva sa owizu uli kataoh unilu olwaslu mipimilo junzeg ut kalet riojaji hipu okporan bo. Tiunles neka faigu nip resob tu ugopuzed gel ku bud cumwi voksen mefnot ez govrodmo bof. Uwebazum pusekoj jate koj murgo mug hoh tohul efhu ziw jiveiwi degsov hujiv fu.",
+    "bio": "Uvini upsanuk wujkawwa me kiaru zo kil gesamiwe pe zadek so ar gujewu. Hatkun ki jabikouw tihzeh eshow wuahi uvta comudef had ifmuc rurmat vod ecuf gik ledro. Wov bombe ekmab ta ni pu kancagfe uvla jepco polrig wuluejo tuja sirsocfat bu ha bo bunjugaju. Jovit ud nih kecaudo fafpub kud kovi vukolimi bebzek dij zafesva acahohe. Macide niuru vov kozu pe mo efa jispino faek fu tapuha nitcar jobheja."
+  },
+  "apiKey": "3ff224b26c6b52baae43bff12d2b8cb22442d3ab809247f154f20f6ee3d7f7ec",
+  "currency": {
+    "code": "SVC",
+    "name": "El Salvador Colon"
+  }
+}
