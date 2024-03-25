@@ -1,0 +1,26 @@
+{
+  "name": "Loretta Cruz",
+  "age": 28,
+  "address": {
+    "street": "Fadu Square",
+    "city": "Fefemi",
+    "state": "WY",
+    "zip": "08233"
+  },
+  "contact": {
+    "phone": "(467) 232-6248",
+    "servicePhone": "800647623"
+  },
+  "birthday": "1959-12-01T06:12:09.597Z",
+  "ip": "234.38.220.42",
+  "foo": "bar",
+  "profile": {
+    "about": "Kar cuj jukiwpom ulkure zuze zo zilob vir wadjivubi nivtulone pid dop. Eh juj vekvimja koflew emfup honrizu eti ti da wa wopdu igawifhi fev houl fo ce emaleb. Gecumejez seukaba goej mo lem upenokopa oho zorfol jaek jud mogpu revtog obuwu fuuwimu uru kubku.",
+    "bio": "Lade ucilo sitelra cammocut wuwanroj zande cis odowab ovzopjeg seb tuscakru ma sukmos tefel. Macipu pagi de masulap toohorik pipve jurmuwad dusdugci juwwif japruni su jug lerowluj do nutim zomowkef dop. Vesjul jo gohe si lic turohdu edoim livajru feckic se ejo hafbuoso."
+  },
+  "apiKey": "1a30212f63f88aef476897aa9b07c15b54a00f51a6eae7dacec41ba40ef6a14a",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
