@@ -1,0 +1,26 @@
+{
+  "name": "Eric Lambert",
+  "age": 58,
+  "address": {
+    "street": "Lavoz Ridge",
+    "city": "Vejravle",
+    "state": "MI",
+    "zip": "12055"
+  },
+  "contact": {
+    "phone": "(518) 328-4579",
+    "servicePhone": "800791153"
+  },
+  "birthday": "1959-06-20T18:54:32.754Z",
+  "ip": "188.62.225.140",
+  "foo": "bar",
+  "profile": {
+    "about": "Ubutub roebo wo fafatepa bove feg af kic ra ire tikalsu wi cot nup ewukoc rih. Wipuboj owop cimeke gingemsuz jizir umibuz po huvos puce hukfid el zam icdirero fid etiv deenu zopopi. Te hek jo teslec sawa levmidil etco catfu mo huolena nimedu zal tadviwgo gig.",
+    "bio": "Wid oge uv wicokso wiplaovi aro fubduvan jiz eg molsufeko nucumetu vurvah rudti. Fub riboli likjam papca atro lewfudit tijes nekulgap ejan mokuhof geteera najivem uprisu pejiruk weuju fu bimagted duomemef. Nacore roh wid utuso kirloteg pu udihok rumor zejol gacabuk guldid pogevos gilebe ew be rupefto pehmeud. Jizbicoz foad ihikac suzanus invoz vok woju kil ratjac ucivi kab puckomij izrusud. Jezkebre purocsaz puzugial ebluri gudsar irlisjo cukef ko zo kupu zonoli jo. Dowu mionpog dam abwe ni horajib gad miwal aniwupuho safme aveeko so bertoiw bid jadotihip jikhiz rupipo."
+  },
+  "apiKey": "34ea831b382e9d171ab0b8a3b05d892a0978dad63e4db6ed497b9f00097b5c06",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
