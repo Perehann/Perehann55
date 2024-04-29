@@ -1,0 +1,26 @@
+{
+  "name": "Adrian Crawford",
+  "age": 56,
+  "address": {
+    "street": "Seco Junction",
+    "city": "Fesmepad",
+    "state": "MD",
+    "zip": "69341"
+  },
+  "contact": {
+    "phone": "(352) 949-2433",
+    "servicePhone": "800114576"
+  },
+  "birthday": "2001-07-28T09:49:50.730Z",
+  "ip": "253.89.195.156",
+  "foo": "bar",
+  "profile": {
+    "about": "Wub zeleli hidla caheni ladsif nin bembu lilavo hi pu hazbojosa nuvooh og wu. Zuzegi nofbek su megaku bockisged zobur lez dima kiwsa nanbabem gif kig kud ivtow rek balub gofkorawu ilwepos. Nepsep far pokiduem woh gav rogepko keahu gacfo we niwoj hotga iziowezam gi ivupo bafbaso go.",
+    "bio": "Jefmefu buno fe kifemlis nifoka amemej narog jip olaciate kahcan cofrih to hubisdo japsufa retorej zikdarnit wecug regjuduti. Bobvol vem tosekjul porpife is mifag fejepar taaveij rikup ad zenropko ikisusop elekaoh gafikpo wu cebgovpes kut. Ilka zufwe vom rilnu zuzhet peufuzow ka ravdiute haguze inero he faget wobzofulo ofiva aboruc jazhoub egojalzo bur."
+  },
+  "apiKey": "4cb583e2cbc83303600c1b3976d8f94f7723b2e1a6fcc4421e55e52bcd1a9c56",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
