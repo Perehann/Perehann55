@@ -1,0 +1,26 @@
+{
+  "name": "Lena Foster",
+  "age": 35,
+  "address": {
+    "street": "Riva Court",
+    "city": "Kasetes",
+    "state": "VA",
+    "zip": "85996"
+  },
+  "contact": {
+    "phone": "(534) 234-8989",
+    "servicePhone": "800171955"
+  },
+  "birthday": "1982-11-27T21:13:00.367Z",
+  "ip": "42.10.221.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Maijidi badnasete iwsog go larpe duv zos faluza wagleg cegek ata wucjo vopeda noepamaf odeita. Ijel nub rodo aghu mo dodpe oz lufpo lazriha rojadu jikjohjah oshuwze mu cagad voveremaj akdohel to. Jok no zoda mohut abbibo jo la wupazaw falas nutab ugaavbug ke toz. Kav fe paw zur gek takza vireb ne pek niisli nida kumu.",
+    "bio": "Rewcius mehoko cujokse massozen goban bembuflu lujjurij natwapkig dimhov kapi tazi fatwokori noje mi iz kowgim okizatma. Ij milhu ku is pevuh kocgihme poveno wer ba zo bevjuw vifa so boz irauj. Ahbo mot mi vu wikfu razniv bebiboc awbooz uvfovso wenpowkoz ehnomib rabifnac bulvesad."
+  },
+  "apiKey": "563f2e223c8167f7bdb3fe955a3536b7bfd9f8811028282c541035b57cbc9a2a",
+  "currency": {
+    "code": "NOK",
+    "name": "Norway Krone"
+  }
+}
